@@ -17,3 +17,5 @@ As stated above, the simple purpose is to show how to use Git and Github togethe
 This is a simple web project, deployment can be on any web server or even local file system.
 
 ## How To Contribute
+
+This is a simple web project, make your contributions by subscribing and posting on mailing list.
